@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorizer", "Colorizer\Colorizer.csproj", "{6C598478-671E-4156-ACE5-5A00D0E689DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C598478-671E-4156-ACE5-5A00D0E689DF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{6C598478-671E-4156-ACE5-5A00D0E689DF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{6C598478-671E-4156-ACE5-5A00D0E689DF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{6C598478-671E-4156-ACE5-5A00D0E689DF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{6C598478-671E-4156-ACE5-5A00D0E689DF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{6C598478-671E-4156-ACE5-5A00D0E689DF}.Release|iPhone.Build.0 = Release|iPhone
+		{6C598478-671E-4156-ACE5-5A00D0E689DF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{6C598478-671E-4156-ACE5-5A00D0E689DF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
